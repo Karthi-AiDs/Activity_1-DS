@@ -25,3 +25,4 @@
 **d. Select columns 'name' and 'age'**
 
 ![Screenshot 2025-02-27 202432](https://github.com/user-attachments/assets/9ef02fe4-93d3-4410-a418-d272d3940c9d)
+
